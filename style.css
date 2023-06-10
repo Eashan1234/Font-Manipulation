@@ -1,0 +1,36 @@
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px grey;
+    font-variant: small-caps;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 4px;
+}
+
+.note
+{
+    font-size:18px;
+    font-variant:normal;
+    color:black;
+    letter-spacing: 1px;
+}
+
+.copy_right_footer
+{
+    bottom:0;
+    position: fixed;
+    color:white;
+    font-size:22px;
+    width:100%;
+    background-color:grey;
+    text-align: center;
+    line-height:4;
+    font-family:fantasy;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px grey;
+}
